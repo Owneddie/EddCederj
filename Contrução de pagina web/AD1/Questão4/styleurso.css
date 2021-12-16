@@ -1,0 +1,124 @@
+@charset "UTF-8";
+
+.imgLogo {
+    border-bottom: 4px solid;
+    margin-bottom: 6px;
+    padding-bottom: 5px;
+}
+a:link {
+    color: #FFDD00;
+    text-decoration: none
+} 
+a:visited{
+    color:#FFBB00;
+    text-decoration: none
+} 
+
+body {
+    background-color: #FF5555;
+    font-family: Lato, Georgia, sans-serif;
+    font-size: 18px;
+    color: #FFDD22;
+}
+header {
+    display:block; 
+    margin-bottom: 1px;
+    margin-right: 10px;
+}
+nav {
+    display:block;
+    margin-right: 10px;
+    font-weight: bold;
+    width: 200px; 
+    font-family: Rubik, Verdana, sans-serif;
+    float: left;
+}
+nav ul{
+    line-height: 230%;
+    padding-top: 20px;
+    margin-top: 40px;
+    list-style-type: disc;
+}
+section {
+    display:block; 
+    width: 70%; 
+    float:right;
+}
+ol {
+    line-height: 200%;
+    list-style: upper-roman;
+}
+ul {
+    line-height: 200%;
+}
+.ender {
+    float: right;
+    text-align: right;
+    font-size: 14px;
+    color: #FFDD22;
+    line-height: 140%;
+}
+.apres {
+    display: block;
+    text-align: center;
+    font-size: 18px;
+}
+.listaComMel {
+    width: 340px;
+    color: #AA0000;
+    background-color: #EECC88;
+    padding: 10px;
+    padding-left: 50px;
+    border: 2px solid;
+    margin-top: 0px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    text-align: left;
+}
+section ul {
+    list-style: square;
+}
+.titulo {
+    text-align: center;
+}
+.preco {
+    color: red;
+    font-weight: bold;
+}
+.tabDaBel {
+    border-collapse: collapse;
+    margin-top: 6px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #FFCC44;
+    color: #000066;
+    font-family: Rubik, Verdana, sans-serif
+}
+.TabDaBel .linTH {
+
+}
+.TabDaBel .colTH {
+
+}
+.imgDaBel {
+    width: 70px;
+    height: 70px;
+}
+td {
+    border: 3px;
+    border-color: #226699;
+    padding-top: 6px;
+    padding-bottom: 12px;
+    padding-left: 6px;
+    padding-right: 12px;
+}
+th {
+    border: 3px;
+    border-color: #226699;
+    padding-top: 6px;
+    padding-bottom: 12px;
+    padding-left: 6px;
+    padding-right: 12px;
+}

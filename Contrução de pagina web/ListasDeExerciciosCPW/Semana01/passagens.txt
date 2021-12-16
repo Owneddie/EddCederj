@@ -1,0 +1,46 @@
+Passagens Aéreas Nacionais do Rio de Janeiro para:
+Cidade
+Varig
+Vasp
+Transbrasil
+Belo Horizonte
+311,78
+311,76
+312,00
+Brasília
+547,88
+547,88
+548,00
+Curitiba
+472,62
+472,62
+472,00
+Florianópolis
+565,90
+565,88
+558,00
+Fortaleza
+1.014,00
+1.014,06
+1.010,00
+Manaus
+1.140,70
+1.140,70
+1.138,00
+Porto Alegre
+648,24
+648,20
+644,00
+Recife
+858,92
+858,92
+858,00
+Salvador
+654,66
+654,64
+644,00
+São Paulo
+316,68
+316,68
+316,68
+Obs: Dependendo do destino, há descontos de até 50% para reservas antecipadas. 
